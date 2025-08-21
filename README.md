@@ -13,7 +13,7 @@ This is a web application designed to detect fraudulent financial transactions u
 ---
 ### Steps
 
-   1. Clone this repository
+1. Clone this repository
    git clone https://github.com/Boyapati-Sreya/Online-Payments-Fraud-Detection-with-Machine-Learning.git
    cd Online-Payments-Fraud-Detection-with-Machine-Learning
    
