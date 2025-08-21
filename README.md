@@ -12,10 +12,15 @@ This is a web application designed to detect fraudulent financial transactions u
 
 ---
 ### Steps
+
 1. Clone this repository or download the ZIP file.
+   
 2.pip install -r requirements.txt
+
 3.pip install streamlit
+
 4.streamlit run app.py
+
 ---
 This repository documents the milestones of the Online Payment Fraud Detection Project.
 
